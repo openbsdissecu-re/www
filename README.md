@@ -1,4 +1,4 @@
 # OpenBSD is Secure!
 
-https://openbsdissecu.re/ exists to clean up misrepresentations of
+https://openbsdissecu.re/ exists to clean up misinterpretations of
 isopenbsdsecu.re
